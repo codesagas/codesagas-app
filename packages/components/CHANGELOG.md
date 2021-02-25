@@ -1,3 +1,10 @@
+# [@codesagas/components-v1.0.2](https://github.com/codesagas/codesagas-app/compare/@codesagas/components-v1.0.1...@codesagas/components-v1.0.2) (2021-02-25)
+
+
+### Bug Fixes
+
+* **button:** change button color ([a2d7fb9](https://github.com/codesagas/codesagas-app/commit/a2d7fb91cb09c84121db7c8a8b994c703df157ac))
+
 # [@codesagas/components-v1.0.1](https://github.com/codesagas/codesagas-app/compare/@codesagas/components-v1.0.0...@codesagas/components-v1.0.1) (2021-02-25)
 
 
