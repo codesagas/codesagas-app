@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/codesagas/codesagas-app/compare/v1.0.0...v1.0.1) (2021-02-25)
+
+
+### Bug Fixes
+
+* **button:** cursor pointer ([6f3220f](https://github.com/codesagas/codesagas-app/commit/6f3220f01fd6ad49deac64ff6187283788bd2873))
+
 # 1.0.0 (2021-02-25)
 
 
