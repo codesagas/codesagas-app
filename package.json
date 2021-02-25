@@ -25,7 +25,7 @@
     "start": "lerna run --parallel --stream start",
     "commit": "cz",
     "setup:commitizen": "commitizen init cz-lerna-changelog --save-dev --save-exact",
-    "semantic-release": "semantic-release",
+    "semantic-release": "lerna run --stream semantic-release",
     "setup:semantic-release": "semantic-release-cli setup"
   },
   "config": {

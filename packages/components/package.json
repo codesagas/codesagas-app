@@ -18,7 +18,8 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "start": "tsc -w"
+    "start": "tsc -w",
+    "semantic-release": "semantic-release"
   },
   "eslintConfig": {
     "extends": [
