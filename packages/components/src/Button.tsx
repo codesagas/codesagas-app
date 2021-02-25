@@ -3,7 +3,7 @@ export function Button(props: any) {
   return (
     <button
       style={{
-        backgroundColor: "rebeccapurple",
+        background: "rebeccapurple",
         color: "white",
         borderRadius: "4px",
         border: "none",
