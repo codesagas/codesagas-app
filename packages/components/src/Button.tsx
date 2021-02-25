@@ -4,7 +4,7 @@ export function Button(props: any) {
     <button
       style={{
         background: "rebeccapurple",
-        color: "white",
+        color: "hotpink",
         borderRadius: "4px",
         border: "none",
         padding: "8px 12px",
