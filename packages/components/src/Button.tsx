@@ -11,7 +11,6 @@ export function Button(props: any) {
         fontSize: "16px",
         textTransform: "uppercase",
         letterSpacing: "2px",
-        margin: "10px 0",
       }}
     >
       {props.children}
