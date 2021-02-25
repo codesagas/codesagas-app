@@ -15,7 +15,7 @@
     "start": "lerna run --parallel --stream start",
     "commit": "cz",
     "setup:commitizen": "commitizen init cz-lerna-changelog --save-dev --save-exact",
-    "semantic-release": "semantic-release --branches main",
+    "semantic-release": "semantic-release",
     "setup:semantic-release": "semantic-release-cli setup"
   },
   "config": {
@@ -28,7 +28,7 @@
     "type": "git",
     "url": "https://github.com/codesagas/codesagas-app.git"
   },
-  "release":{
+  "release": {
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
