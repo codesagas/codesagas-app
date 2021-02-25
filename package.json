@@ -32,13 +32,15 @@
       "path": "./node_modules/cz-lerna-changelog"
     }
   },
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/codesagas/codesagas-app.git"
   },
   "release": {
-    "branches": ["main"],
+    "branches": [
+      "main"
+    ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
