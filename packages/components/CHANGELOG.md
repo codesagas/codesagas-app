@@ -1,3 +1,10 @@
+# [@codesagas/components-v1.0.1](https://github.com/codesagas/codesagas-app/compare/@codesagas/components-v1.0.0...@codesagas/components-v1.0.1) (2021-02-25)
+
+
+### Bug Fixes
+
+* **button:** removed children and spread props ([dc269b0](https://github.com/codesagas/codesagas-app/commit/dc269b0b72832799ee9fea4438e92e64e34f43a6))
+
 # @codesagas/components-v1.0.0 (2021-02-25)
 
 
