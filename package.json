@@ -26,6 +26,15 @@
   "version": "0.0.0-development",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codesagas/codesagas-app-starter-lerna.git"
+    "url": "https://github.com/codesagas/codesagas-app.git"
+  },
+  "release":{
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/git"
+    ]
   }
 }
