@@ -13,8 +13,6 @@ export function Button(props: any) {
         letterSpacing: "2px",
         cursor: "pointer",
       }}
-    >
-      {props.children}
-    </button>
+    {...props} />
   );
 }
