@@ -1,3 +1,10 @@
+# [@codesagas/components-v1.0.3](https://github.com/codesagas/codesagas-app/compare/@codesagas/components-v1.0.2...@codesagas/components-v1.0.3) (2021-03-03)
+
+
+### Bug Fixes
+
+* made the button different ([6f409d4](https://github.com/codesagas/codesagas-app/commit/6f409d4d135f934d506e2f2a672de33647bb544f))
+
 # [@codesagas/components-v1.0.2](https://github.com/codesagas/codesagas-app/compare/@codesagas/components-v1.0.1...@codesagas/components-v1.0.2) (2021-02-25)
 
 
