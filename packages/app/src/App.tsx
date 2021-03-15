@@ -1,7 +1,6 @@
-import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Button } from '@ddb/character-components';
+import { Button } from '@codesagas/components';
 
 function App() {
   return (
@@ -19,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <Button>lksjdflskjf</Button>
+        <Button className="">lksjdflskjf</Button>
       </header>
     </div>
   );

@@ -21,7 +21,8 @@
   },
   "scripts": {
     "lerna": "lerna",
-    "bootstrap": "lerna bootstrap",
+    "bootstrap": "node node_modules/lerna/cli.js bootstrap",
+    "mkdir": "mkdir",
     "start": "lerna run --parallel --stream start",
     "commit": "cz",
     "setup:commitizen": "commitizen init cz-lerna-changelog --save-dev --save-exact",
